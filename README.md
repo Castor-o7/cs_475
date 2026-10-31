@@ -4,9 +4,9 @@ Coursework from Portland State's AI Security course (winter 2026).
 
 > **Looking for the Paradox Detector?** It lives in its own repository:
 > **[Castor-o7/ParadoxDetector](https://github.com/Castor-o7/ParadoxDetector)**.
-> It flags IPs and domains where threat-intel sources (OTX, GreyNoise,
-> AbuseIPDB and others) disagree, and ships as a CLI, web app, batch log
-> scanner and MCP server.
+> It flags IPs where fast-updating threat-intel sources (OTX, GreyNoise,
+> AbuseIPDB and others) disagree with slow-updating ones, and ships as a CLI,
+> web app, batch log scanner and MCP server.
 
 ## What's here
 
